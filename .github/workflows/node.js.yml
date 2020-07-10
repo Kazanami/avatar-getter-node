@@ -25,6 +25,8 @@ jobs:
     - run: yarn install
     - run: node main.js
     - run: |
+        git config --global user.email ${GITH_EMAIL}
+        git config --global user.name ${GITH_USER}
         git commit -m "Update Avater Image"
         git push
         git reset
