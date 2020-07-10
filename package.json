@@ -1,0 +1,8 @@
+{
+  "name": "avatar-getter-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kazanami/avatar-getter-node.git",
+  "author": "f0rk <dummy.github.1945@gmail.com>",
+  "license": "MIT"
+}
