@@ -13,7 +13,7 @@ async function downloadAvatar(url) {
   }
   let avater_buffer = await _userAvater.buffer();
   let created_image = createCircleImage(avater_buffer);
-  fs.writeFileSync(`./${process.env.GH_USER}.png`, created_image)
+  fs.writeFileSync(`./${process.env.GITH_USER}.png`, created_image)
 }
 
 function createCircleImage(avater){
