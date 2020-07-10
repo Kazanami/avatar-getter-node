@@ -6,4 +6,5 @@ yarn install
 node main.js
 git add ${GITH_USER}.png
 git commit -m "Update Avatar Image"
+git push
 git reset
