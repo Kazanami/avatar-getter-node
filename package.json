@@ -9,7 +9,7 @@
     "canvas": "^2.6.1",
     "canvas-constructor": "^3.2.0",
     "fs-extra": "^9.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "path": "^0.12.7"
   }
 }
